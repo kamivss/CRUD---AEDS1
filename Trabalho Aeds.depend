@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1733137525 source:c:\users\1543570\documents\trabalho crud aeds\trabalho aeds\ingredientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733138524 source:c:\users\1543570\documents\trabalho crud aeds\trabalho aeds\pizza.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733135118 c:\users\1543570\documents\trabalho crud aeds\trabalho aeds\ingredientes.h
+
+1733139434 c:\users\1543570\documents\trabalho crud aeds\trabalho aeds\pizza.h
+	"ingredientes.h"
+
+1733138627 source:c:\users\1543570\documents\trabalho crud aeds\trabalho aeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733229575 source:c:\users\guuhd\onedrive\햞ea de trabalho\trabalho aeds\ingredientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733139434 c:\users\guuhd\onedrive\햞ea de trabalho\trabalho aeds\pizza.h
+	"ingredientes.h"
+
+1733245279 c:\users\guuhd\onedrive\햞ea de trabalho\trabalho aeds\ingredientes.h
+
+1733244651 source:c:\users\guuhd\onedrive\햞ea de trabalho\trabalho aeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733270970 source:c:\users\guuhd\onedrive\햞ea de trabalho\trabalho aeds\pizza.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733321104 source:c:\users\1543570\downloads\trabalho aeds\trabalho aeds\ingredientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733321592 c:\users\1543570\downloads\trabalho aeds\trabalho aeds\pizza.h
+	"ingredientes.h"
+
+1733321104 c:\users\1543570\downloads\trabalho aeds\trabalho aeds\ingredientes.h
+
+1733321179 source:c:\users\1543570\downloads\trabalho aeds\trabalho aeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733321668 source:c:\users\1543570\downloads\trabalho aeds\trabalho aeds\pizza.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733402337 source:c:\users\guuhd\onedrive\documentos\trabalho aeds\trabalho aeds\ingredientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733418501 c:\users\guuhd\onedrive\documentos\trabalho aeds\trabalho aeds\pizza.h
+	"ingredientes.h"
+
+1733418463 c:\users\guuhd\onedrive\documentos\trabalho aeds\trabalho aeds\ingredientes.h
+
+1733422291 source:c:\users\guuhd\onedrive\documentos\trabalho aeds\trabalho aeds\pizza.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733418501 source:c:\users\guuhd\onedrive\documentos\trabalho aeds\trabalho aeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+	<locale.h>
+
+1733425209 source:c:\users\guuhd\downloads\aaaaaaaaaa\trabalho aeds\ingredientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733423427 c:\users\guuhd\downloads\aaaaaaaaaa\trabalho aeds\pizza.h
+	"ingredientes.h"
+
+1733423427 c:\users\guuhd\downloads\aaaaaaaaaa\trabalho aeds\ingredientes.h
+
+1733425564 source:c:\users\guuhd\downloads\aaaaaaaaaa\trabalho aeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+	<locale.h>
+
+1733426030 source:c:\users\guuhd\downloads\aaaaaaaaaa\trabalho aeds\pizza.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733427655 source:d:\users\user\downloads\eu vou ficar maluco\trabalho aeds\ingredientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733427655 d:\users\user\downloads\eu vou ficar maluco\trabalho aeds\pizza.h
+	"ingredientes.h"
+
+1733427655 d:\users\user\downloads\eu vou ficar maluco\trabalho aeds\ingredientes.h
+
+1733428761 source:d:\users\user\downloads\eu vou ficar maluco\trabalho aeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+	<locale.h>
+
+1733437872 source:c:\users\guuhd\downloads\ficou lindooooo testa ai (1)\ficou lindooooo testa ai\trabalho aeds\ingredientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
+1733437873 c:\users\guuhd\downloads\ficou lindooooo testa ai (1)\ficou lindooooo testa ai\trabalho aeds\pizza.h
+	"ingredientes.h"
+
+1733437873 c:\users\guuhd\downloads\ficou lindooooo testa ai (1)\ficou lindooooo testa ai\trabalho aeds\ingredientes.h
+
+1733437953 source:c:\users\guuhd\downloads\ficou lindooooo testa ai (1)\ficou lindooooo testa ai\trabalho aeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+	<locale.h>
+
+1733438805 source:c:\users\guuhd\downloads\ficou lindooooo testa ai (1)\ficou lindooooo testa ai\trabalho aeds\pizza.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingredientes.h"
+
