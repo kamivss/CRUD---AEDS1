@@ -1,5 +1,5 @@
 # Sistema de Gerenciamento de Pizzaria em C
-Feito por  Kamilly vitoria e Gustavo Dias.
+
 Funcionalidades:
 - Permite ao usuário adicionar, visualizar, editar e remover pizzas do cardápio.
 - Permite ao usuário adicionar, visualizar, editar e remover ingredientes disponíveis na pizzaria.
